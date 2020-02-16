@@ -10,6 +10,6 @@ Given two eggs, find the highest floor an egg can be dropped from without breaki
 
 My program is a bit advanced, given the number of floors (may not be 100), it tells you the least possible number of drops and the method you should follow to get the highest floor. 
 
-The answer is 10 for the case of 100 floor 
+The answer is 10 for the case of 100 floor, which is better than what is posted in most website (15). 
 
 
